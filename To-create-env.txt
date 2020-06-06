@@ -1,0 +1,3 @@
+- open miniconda prompt
+- cd to the project folder
+- conda create --prefix ./env pandas numpy jupyter matplotlib scikit-learn <<any other library to install>>
